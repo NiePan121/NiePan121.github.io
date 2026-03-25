@@ -1,0 +1,14 @@
+I like money
+I like power
+I like travellling
+<<<<<<< HEAD
+I like travellling
+I like reading
+=======
+>>>>>>> niepan
+I like innovating
+I don't like vast and magnificent scenery
+I like freedom
+I like cutting-edge technology
+I like myth and mystery
+I like myself
