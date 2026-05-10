@@ -1,0 +1,7 @@
+Q: What is the distribution of DALYs across all countries in 2019?
+Line: 59
+Result: The result matches my expectation. 
+        The histogram shows most countries have low DALYs values, while only a small number of countries have very high DALYs.
+        This is because disease burden is not evenly distributed globally.
+        Factors like conflict, poor healthcare infrastructure, high prevalence of infectious diseases, and low economic development in some countries lead to much higher DALYs.
+        Meanwhile, developed countries with better healthcare systems and public health measures tend to have lower disease burden.

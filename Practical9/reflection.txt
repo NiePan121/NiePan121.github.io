@@ -1,0 +1,7 @@
+Reflection
+
+This practical helped me understand how the SIR model works to simulate the spread of disease.
+I learned how vaccination can reduce infection and achieve herd immunity.
+The spatial SIR model showed how disease spreads locally to neighbours.
+And I also learned how to use Python to simulate and visualise stochastic models.
+This was a useful and interesting practical.
