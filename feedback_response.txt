@@ -1,0 +1,5 @@
+My Practical 3 and Practical 4 had no problems.
+And for Practical 5, I removed the input() function and added a fixed variable for the target gene with pseudocode to show where to change it.
+Then I fixed the typo in the y-axis label of the bar chart.
+I also add some pseudocode because I think my code is a bit incomplete.
+These changes make the script follow the assignment rules better.
